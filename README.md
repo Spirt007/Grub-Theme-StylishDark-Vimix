@@ -14,10 +14,10 @@ OrOpen the terminal at current directory.
 
     sudo ./Install
 --------------------------------------------------------------------------------------------------------------------
-    SLAZE
+   SLAZE
 ![Image alt](https://github.com/Spirt007/Grub-Theme/blob/master/grub-theme-slaze.jpg)
 
-    VIMIX
+   VIMIX
 ![Image alt](https://github.com/Spirt007/Grub-Theme/blob/master/grub-theme-vimix.jpg)
 
    STYLISHDARK
