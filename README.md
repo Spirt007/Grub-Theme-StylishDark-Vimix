@@ -13,3 +13,5 @@ OrOpen the terminal at current directory.
 Дважды щелкните, чтобы открыть этот файл сценария, или откройте терминал в  каталоге темы которую хочешь установить.
 
     sudo ./Install
+![Image alt](https://github.com/Spirt007/Grub-Theme/blob/master/screenshot-stylish.jpeg)
+![Image alt](https://github.com/Spirt007/Grub-Theme/blob/master/screenshot-vimix.jpeg)
