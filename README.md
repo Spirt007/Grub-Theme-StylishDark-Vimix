@@ -21,4 +21,4 @@ OrOpen the terminal at current directory.
 ![Image alt](https://github.com/Spirt007/Grub-Theme/blob/master/grub-theme-vimix.jpg)
 
    STYLISHDARK
-![Image alt](https://github.com/Spirt007/Grub-Theme/blob/master/grub_themes_stylishdark_0_1_by_vinceliuice_d8t31ig-pre.jpg)
+![Image alt](https://github.com/Spirt007/Grub-Theme/blob/master/Dark.jpg)
