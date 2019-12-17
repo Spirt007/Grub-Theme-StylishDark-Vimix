@@ -1,15 +1,15 @@
 
 ## Grub2 Themes
 
-Vimix and StylishDark is a flat Design theme for Grub2.
+Vimix,Slaze and StylishDark is a flat Design theme for Grub2.
+Три темы для Grub2.
 
 ## Install
 
 Double-click to open that script file,
 OrOpen the terminal at current directory.
 
-Run
+Дважды щелкните, чтобы открыть этот файл сценария,
+Или откройте терминал в текущем каталоге.
 
     sudo ./Install
-
-Or use Root user run ./Install
